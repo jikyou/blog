@@ -63,10 +63,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: UA-123394426-2      # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+google_analytics: UA-123394426-2
 
 jekyll_compose:
   default_front_matter:
