@@ -54,7 +54,7 @@ date: 2020-03-18 01:31 +0800
 1. 确定工作负载是否适合并发
 2. 确定必须使用正确语义的工作负载类型（CPU-Bound / IO-Bound）非常重要。
 
-## Refence
+## Reference
 
 [Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html) ｜ [Archive](http://archive.vn/DcOZk)
 
