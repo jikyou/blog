@@ -6,5 +6,5 @@ permalink: /now/
 
 ## Technology Stack
 
-+ Golang
-+ React
++ TypeScript
++ Blockchain
