@@ -33,9 +33,7 @@ github_username: lanlyhs
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-analytics
-
+plugins: []
 header_pages:
   - about.md
   - contact.md
