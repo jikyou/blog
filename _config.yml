@@ -35,6 +35,7 @@ github_username: lanlyhs
 theme: minima
 plugins: []
 header_pages:
+  - share.md
   - contact.md
 
 # show_excerpts: true
