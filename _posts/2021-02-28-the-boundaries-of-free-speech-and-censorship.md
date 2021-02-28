@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The boundaries of free speech and censorship
+title: 言论自由和审查的边界
 tags: Thinking
 date: 2021-02-28 21:33 +0800
 ---
-# 言论自由和审查的边界
-
 ## [言论自由](https://en.wikipedia.org/wiki/Freedom_of_speech)
 
 根据 WIKI 的定义，「言论自由是一项原则，它支持个人或社区自由地表达自己的观点和思想，而不必担心遭到报复、审查或法律制裁。」。
