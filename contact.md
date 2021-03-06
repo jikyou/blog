@@ -6,7 +6,7 @@ permalink: /contact/
 
 # Email
 
-- hi@ziqiang.ch
+- lanlyhs[at]gmail.com
 
 # Telegram
 
