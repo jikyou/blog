@@ -19,14 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Lanlyhs's Blog
-email: hi@ziqiang.ch
-# author:
-#   name: Lanlyhs
-#   email: hi@ziqiang.ch
-description: Stay hungry, stay foolish
+description: Stay hungry, Stay foolish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
 github_username: lanlyhs
 
 # Build settings
