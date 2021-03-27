@@ -8,4 +8,4 @@ vendor
 .bundle
 .DS_Store
 
-output/
+outputs/
