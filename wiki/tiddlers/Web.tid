@@ -1,0 +1,55 @@
+created: 20200321155524834
+modified: 20200505110123997
+tags: web
+title: Web
+
+
+[[W3C|https://www.w3.org/]]
+
+[[W3C STANDARDS|https://www.w3.org/standards/|]]
+
+! HTML / HyperText Markup Language
+
+!! Specification
+
+[[WHATWG's HTML Living Standard|https://html.spec.whatwg.org/multipage/]]
+
+[[HTML 5.2|https://www.w3.org/TR/html52/]]
+
+! [[CSS - Cascading Style Sheets|https://www.w3.org/Style/CSS/]]
+
+[[CSS Working Group Wiki|https://wiki.csswg.org/]]
+
+!! Specification
+
+[[All Specs|https://www.w3.org/Style/CSS/specs]]
+
+[[css-syntax-3|https://www.w3.org/TR/css-syntax-3/]]
+
+! [[WCAG - Web Content Accessibility Guidelines|https://www.w3.org/WAI/standards-guidelines/wcag/]]
+
+[[Spec WCAG21|https://www.w3.org/TR/WCAG21/]]
+
+! Accessible Rich Internet Applications - WAI-ARIA
+
+[[Spec|https://www.w3.org/TR/wai-aria/]]
+
+! DOM - Document Object Model
+
+!! Specification
+
+[[DOM Living Standard|https://dom.spec.whatwg.org/]]
+
+! [[JavaScript]]
+
+! Browser Check
+
+[[Can I Use|https://caniuse.com/]]
+
+! Style Guide
+
+[[Google HTML/CSS Style Guide|https://google.github.io/styleguide/htmlcssguide.html]]
+
+[[Github Style Linter|https://github.com/stylelint/stylelint]]
+
+[[mdo Code Guide|https://codeguide.co/#html]]

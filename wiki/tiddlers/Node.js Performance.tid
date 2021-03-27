@@ -1,0 +1,21 @@
+created: 20201122101942550
+modified: 20210321115213589
+tags: Node.js
+title: Node.js Performance
+type: text/vnd.tiddlywiki
+
+```
+node --prof index.js
+node --prof-process isolate-v8....log > profile.txt
+```
+
+! GUI
+
+!! Chrome Devtool
+
+```
+node --inspect-brk index.js
+# Open chrome://inpect
+```
+
+!! [[Clinic.js|https://github.com/clinicjs/node-clinic]]

@@ -1,0 +1,19 @@
+created: 20200430111046644
+modified: 20210321114102202
+tags: Microservices
+title: 服务发现
+type: text/vnd.tiddlywiki
+
+!! CP
+
+!!! [[Consul|https://github.com/hashicorp/consul]]
+
+Consul / [[Registrator|https://github.com/gliderlabs/registrator]] / [[Consul Template|https://github.com/hashicorp/consul-template]]
+
+!!! ZooKeeper
+
+!!! etcd
+
+!! AP
+
+!!! [[Netflix Eureka|https://github.com/Netflix/eureka]]

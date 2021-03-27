@@ -52,6 +52,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - wiki/
 
 google_analytics: UA-123394426-2
 

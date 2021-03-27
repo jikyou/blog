@@ -1,0 +1,63 @@
+created: 20200521062442385
+modified: 20210321113411764
+tags: Blockchain
+title: Bitcoin
+type: text/vnd.tiddlywiki
+
+[[Home|https://bitcoin.org/en/]]
+[[developer.bitcoin|https://developer.bitcoin.org/]]
+
+[[Wiki|https://en.bitcoin.it/wiki/Main_Page]]
+[[Bitcoinwiki|https://en.bitcoinwiki.org/wiki/Main_Page]]
+
+[[White Paper|https://bitcoin.org/bitcoin.pdf]] [[中文版|https://github.com/GammaGao/bitcoinwhitepaper/blob/master/bitcoin_cn.pdf]]
+
+[[Bitcoin Improvement Proposals - bips|https://github.com/bitcoin/bips]]
+
+! Client
+
+[[Wiki Refer|https://en.bitcoin.it/wiki/Clients]]
+
+[[Mastering Bitcoin 2nd Edition Refer|https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch03.asciidoc#alternative-clients-libraries-and-toolkits]]
+
+! Detail
+
+[[Genesis Block|https://www.blockchain.com/btc/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f]]
+
+[[hash-rate|https://blockchain.info/charts/hash-rate]]
+
+[[Calculate suitable fees|https://bitcoinfees.earn.com/]]
+
+[[GLOBAL BITCOIN NODES DISTRIBUTION|https://bitnodes.io/]]
+
+[[Target|https://en.bitcoin.it/wiki/Target]]
+
+[[Script|https://en.bitcoin.it/wiki/Script]]
+
+[[Merkle Tree|https://en.wikipedia.org/wiki/Merkle_tree]]
+
+! Generator
+
+[[bitcoinpaperwallet|https://bitcoinpaperwallet.com/]]
+
+[[Bitcoin Wallet Generator|https://www.bitaddress.org/]]
+
+[[BIP39 mnemonic|https://iancoleman.io/bip39/]]
+
+! Awesome
+
+[[awesome-bitcoin-payment-processors|https://github.com/alexk111/awesome-bitcoin-payment-processors]]
+
+[[awesome-bitcoin|https://github.com/igorbarinov/awesome-bitcoin]]
+
+! Book
+
+[[bitcoinbook|https://github.com/bitcoinbook/bitcoinbook]] [[中文版|https://github.com/tianmingyun/MasterBitcoin2CN]]
+
+[[The Little Bitcoin Book|https://littlebitcoinbook.com/]] [[中文版|https://xiongxiaoer.gitbook.io/the-little-bitcoin-book/]]
+
+! Community
+
+[[Bitcoinedge|https://bitcoinedge.org/]]
+
+[[Scalingbitcoin|https://scalingbitcoin.org/]]

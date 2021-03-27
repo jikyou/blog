@@ -1,0 +1,35 @@
+created: 20200321133449690
+modified: 20200925044918019
+tags: command
+title: Tiddlywiki
+type: text/vnd.tiddlywiki
+
+! Init
+
+```
+tiddlywiki ./MyWikiFolder --init empty
+tiddlywiki ./MyWikiFolder --init codemirrordemo
+```
+
+! Run
+
+```
+tiddlywiki . --server 7123
+tiddlywiki . --server 8080 $:/core/save/all text/plain text/html "" "" 192.168.64.4
+```
+
+! Build to index.html
+
+```
+tiddlywiki . --build index
+```
+
+! List all editions
+
+```
+tiddlywiki --editions
+```
+
+! GUI
+
+[[Desktop|https://github.com/Jermolene/TiddlyDesktop/releases]]

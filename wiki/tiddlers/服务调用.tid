@@ -1,0 +1,21 @@
+created: 20200430110954900
+modified: 20210321114134109
+tags: Microservices
+title: 服务调用
+type: text/vnd.tiddlywiki
+
+! 语言平台绑定的开源 RPC 框架
+
+!! [[Alibaba Dubbo|https://github.com/apache/dubbo]]
+
+!! [[Weibo Motan|https://github.com/weibocom/motan]]
+
+!! [[Tencent Tars|https://github.com/TarsCloud/Tars]]
+
+!! [[Spring Cloud|https://spring.io/projects/spring-cloud]]
+
+! 跨语言平台的开源 RPC 框架
+
+!! [[Google gRPC|https://grpc.io]]
+
+!! [[Facebook Thrift|https://github.com/apache/thrift]]
