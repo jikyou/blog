@@ -54,7 +54,7 @@ exclude:
   - vendor/ruby/
   - wiki/
 
-destination: output
+destination: outputs
 
 google_analytics: UA-123394426-2
 
