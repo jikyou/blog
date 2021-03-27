@@ -23,7 +23,7 @@ wikibuild:
 	tiddlywiki ./wiki \
 	    --verbose \
 	    --version \
-	    --output ./output/wiki \
+	    --output ./outputs/wiki \
 	    --build static favicon index
 
 .PHONY: d
