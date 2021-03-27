@@ -54,6 +54,8 @@ exclude:
   - vendor/ruby/
   - wiki/
 
+destination: output
+
 google_analytics: UA-123394426-2
 
 jekyll_compose:

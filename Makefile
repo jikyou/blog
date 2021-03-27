@@ -1,6 +1,6 @@
 .PHONY: s
 serve:
-	jekyll serve -w -d ./output
+	jekyll serve -w
 
 .PHONY: wiki
 wiki:
@@ -16,7 +16,7 @@ build: jekyllbuild wikibuild
 
 .PHONY: jekyllbuild
 jekyllbuild:
-	jekyll build -d ./output
+	jekyll build -d
 
 .PHONY: wikibuild
 wikibuild:
