@@ -16,7 +16,7 @@ build: jekyllbuild wikibuild
 
 .PHONY: jekyllbuild
 jekyllbuild:
-	jekyll build -d
+	jekyll build
 
 .PHONY: wikibuild
 wikibuild:
