@@ -1,0 +1,80 @@
+created: 20200322055608610
+modified: 20200424022733921
+tags: web
+title: Web Component
+
+! Server
+
+Api Doc
+
+Validate
+
+Load Banlance
+
+Router
+
+gracefully shutdown
+
+gracefully Restart
+
+!! Business
+
+!!! 时间
+
+业务时间，服务器时间
+
+!!! 精度
+
+金钱数额的精度，BigNumber.js
+
+!!! Asset
+
+Nginx
+
+Gizp
+
+!!! Auth
+
+Session/Cookie
+
+JWT
+
+[[OAuth|https://oauth.net/]]
+
+ACL / RBCL
+
+!!! Security
+
+SQL Injection
+
+CSRF
+
+XSS
+
+User Passsword (bcrypt)
+
+!!! Test
+
+UnitTest
+
+ApiTest
+
+!! Database
+
+Validate
+
+ORM
+
+migrate
+
+! Client
+
+HTML
+
+CSS
+
+Javascript
+
+! Other
+
+[[JSON schema validation|https://json-schema.org/]]

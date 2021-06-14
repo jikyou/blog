@@ -1,0 +1,29 @@
+created: 20200430110911816
+modified: 20210321114157286
+tags: Microservices
+title: 服务追踪
+type: text/vnd.tiddlywiki
+
+! Paper
+
+[[Dapper, a Large-Scale Distributed Systems Tracing Infrastructure|https://research.google/pubs/pub36356/]]
+
+! Spec
+
+[[Opentracing|https://opentracing.io/]]
+
+! Community practice
+
+[[Twitter OpenZipkin|https://github.com/openzipkin/zipkin]]
+
+[[Naver Pinpoint|https://github.com/naver/pinpoint]]
+
+[[Uber Jaeger|https://github.com/jaegertracing/jaeger]]
+
+[[Skywalking|https://github.com/apache/skywalking]]
+
+[[Lightstep|https://github.com/lightstep]]
+
+[[DianPing Cat|https://github.com/dianping/cat]]
+
+Alibaba EagleEye

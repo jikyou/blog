@@ -1,0 +1,33 @@
+created: 20200427105736506
+modified: 20210321115117633
+tags: JavaScript
+title: TypeScript
+type: text/vnd.tiddlywiki
+
+[[Spec|https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md]]
+
+[[Design Goals|https://github.com/Microsoft/TypeScript/wiki/TypeScript-Design-Goals]]
+
+[[Roadmap|https://github.com/Microsoft/TypeScript/wiki/Roadmap]]
+
+[[Docs|https://www.typescriptlang.org/docs/home.html]] [[中文版|https://app.gitbook.com/@zhongsp/s/typescript-handbook/]]
+
+[[Playground|https://www.typescriptlang.org/play/index.html]]
+
+! Book
+
+[[typescript-tutorial|https://github.com/xcatliu/typescript-tutorial]]
+
+[[Typescript Book|https://github.com/basarat/typescript-book]] [[中文版|https://jkchao.github.io/typescript-book-chinese/]]
+
+! Package
+
+[[TypeSearch|https://microsoft.github.io/TypeSearch/]]
+
+[[DefinitelyTyped|https://github.com/DefinitelyTyped/DefinitelyTyped]]
+
+! Awesome
+
+[[dzharii/awesome-typescript|https://github.com/dzharii/awesome-typescript]]
+
+[[semlinker/awesome-typescript|https://github.com/semlinker/awesome-typescript]]

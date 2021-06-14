@@ -1,0 +1,51 @@
+created: 20200426085607243
+modified: 20210321115008358
+tags: [[Programming language]]
+title: JavaScript
+type: text/vnd.tiddlywiki
+
+[[ECMA|https://www.ecma-international.org/]]
+
+[[|All Ecma Standards|https://www.ecma-international.org/publications/standards/Standard.htm]]
+
+[[ECMAScript-new-features-list|https://github.com/daumann/ECMAScript-new-features-list]]
+
+[[Proposals|https://github.com/tc39/proposals]]
+
+[[Proposals Process Document|https://tc39.es/process-document/]]
+
+! Specification
+
+[[ECMA-262|https://tc39.es/ecma262/]]
+
+! Book
+
+[[ES6 入门教程|https://es6.ruanyifeng.com/]]
+
+[[You Don't Know JS Yet (book series) - 2nd Edition|https://github.com/getify/You-Dont-Know-JS]]
+
+[[You Don't Know JS Yet (book series) - 1nd Edition|https://github.com/getify/You-Dont-Know-JS/tree/1st-ed]] [[中文版|https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN]]
+
+[[Mostly adequate guide to FP (in javascript)|https://github.com/MostlyAdequate/mostly-adequate-guide]] [[中文版|https://github.com/llh911001/mostly-adequate-guide-chinese]]
+
+[[javascript.info - The Modern JavaScript Tutorial|https://javascript.info/]] [[中文版|https://zh.javascript.info/]]
+
+[[Functional-Light JavaScript|https://github.com/getify/Functional-Light-JS]]
+
+! Stuff
+
+[[Callback Hell|http://callbackhell.com/]]
+
+! Module
+
+[[Common JS|https://requirejs.org/]]
+
+! Check Compat
+
+[[ECMAScript 兼容性表|http://kangax.github.io/compat-table/es6/]]
+
+! Style Guide
+
+[[Airbnb JavaScript Style Guide|https://github.com/airbnb/javascript]]
+
+[[JavaScript Style Guide|https://github.com/standard/standard]]

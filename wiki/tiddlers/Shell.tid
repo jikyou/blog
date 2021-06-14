@@ -1,0 +1,33 @@
+created: 20200520075901103
+modified: 20200925045252239
+title: Shell
+
+! fish
+
+```
+sudo apt-add-repository ppa:fish-shell/release-3
+sudo apt-get update
+sudo apt-get install fish
+```
+
+!! oh-my-fish
+
+```
+curl -L https://get.oh-my.fish | fish
+```
+
+! zsh
+
+[[ohmyzsh|https://github.com/ohmyzsh/ohmyzsh]]
+
+!! Plugins
+
+[[zsh-autosuggestions|https://github.com/zsh-users/zsh-autosuggestions]]
+
+[[zsh-syntax-highlighting|https://github.com/zsh-users/zsh-syntax-highlighting]]
+
+[[zsh-completions|https://github.com/zsh-users/zsh-completions]]
+
+! Plugins
+
+[[z.lua|https://github.com/skywind3000/z.lua]]

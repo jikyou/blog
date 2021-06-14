@@ -1,0 +1,17 @@
+created: 20200508024432609
+list: 
+modified: 20200711071320790
+tags: app terminal
+title: App Terminal
+
+! iOS
+
+[[a-Shell|https://github.com/holzschu/a-Shell]]
+
+[[ish|https://github.com/ish-app/ish]]
+
+[[blink|https://github.com/blinksh/blink]]
+
+! Android
+
+[[termux|https://termux.com/]]
