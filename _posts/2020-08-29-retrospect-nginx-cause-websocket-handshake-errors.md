@@ -4,6 +4,8 @@ title: 回顾 Nginx 配置问题导致 Websocket 握手错误
 tags: nginx, websocket
 date: 2020-08-29 12:42 +0800
 ---
+Websocket 协议是通过需要 http Upgrade 头切换过来的。
+
 ## 事故
 
 18 年的这个时候，作为公司官网的服务端，在上线时，出了一个事故。

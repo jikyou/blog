@@ -4,6 +4,8 @@ title: 总结命令行代理的方式
 tags: CommandLine
 date: 2021-03-06 18:10 +0800
 ---
+目前我主要通过 export 和软件的方式，来代理。
+
 ## 一、Export 命令
 
 ```sh

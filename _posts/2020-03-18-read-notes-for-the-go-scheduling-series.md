@@ -4,6 +4,8 @@ title: 读 Go 调度系列的笔记
 tags: Notes Prorgramming Golang
 date: 2020-03-18 01:31 +0800
 ---
+Golang 自己维护线程池来对接 Goroutine，降低系统的调度成本。
+
 ## 程序性能差的原因
 
 1. 线程处于 Waiting 状态。由于等待硬件（disk, network）操作系统（system calls）同步调用（atomic, mutexes）导致线程处于 Waiting 状态。

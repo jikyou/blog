@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 浏览器打开 Goog​​le.com 中涉及的 DNS 查找
+title: 浏览器打开 Google.com 中涉及的 DNS 查找
 tags: Network DNS
 date: 2020-03-29 14:54 +0800
 ---
+缓存无处不在。
+
 ## DNS 查询路径
 
 1. 从浏览起缓存里找。

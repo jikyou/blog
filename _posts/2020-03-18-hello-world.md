@@ -4,6 +4,8 @@ title: Hello World
 tags: Experience
 date: 2020-03-18 01:29 +0800
 ---
+Stay hungry, Stay foolish.
+
 ## 过去博客存在的问题
 
 1. 关注点在主题上，而不是写作。
