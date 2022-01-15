@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Nginx Too many open files
 tags: Nginx
 date: 2022-01-15 23:22 +0800
