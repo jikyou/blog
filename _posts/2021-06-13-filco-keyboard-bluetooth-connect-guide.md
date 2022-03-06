@@ -45,7 +45,7 @@ date: 2021-06-13 00:24 +0800
 1. 在原本已经连接的键盘上输入六位任意 PIN 码。
 2. 接着在需要连接的键盘上重复输入上面的六位 PIN 码。
 
-## Reference
+## References
 
 [v2ex.com](https://v2ex.com/t/441562)
 

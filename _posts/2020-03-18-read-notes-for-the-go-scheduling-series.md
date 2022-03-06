@@ -57,7 +57,7 @@ Golang 自己维护线程池来对接 Goroutine，降低系统的调度成本。
 1. 确定工作负载是否适合并发
 2. 确定必须使用正确语义的工作负载类型（CPU-Bound / IO-Bound）非常重要。
 
-## Reference
+## References
 
 [Scheduling In Go : Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html) ｜ [Archive](http://archive.vn/DcOZk)
 

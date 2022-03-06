@@ -34,6 +34,6 @@ date: 2022-01-15 23:22 +0800
 # LimitNOFILE=500000
 ```
 
-## Reference
+## References
 
 [Nginx socket() failed (24: Too many open files)](https://www.claudiokuenzler.com/blog/850/nginx-socket-failed-24-too-many-open-files)
