@@ -1,6 +1,8 @@
 ---
 title: 总结命令行代理的方式
-tags: CommandLine, Proxy
+tags:
+    - CommandLine
+    - Proxy
 date: 2021-03-06 18:10 +0800
 ---
 

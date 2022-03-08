@@ -1,6 +1,6 @@
 ---
 title: 读 Go 调度系列的笔记
-tags: Notes Prorgramming Golang
+tags: Golang
 date: 2020-03-18 01:31 +0800
 ---
 

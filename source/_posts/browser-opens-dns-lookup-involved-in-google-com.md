@@ -1,6 +1,8 @@
 ---
 title: 浏览器打开 Google.com 中涉及的 DNS 查找
-tags: Network DNS
+tags:
+    - Network
+    - DNS
 date: 2020-03-29 14:54 +0800
 ---
 

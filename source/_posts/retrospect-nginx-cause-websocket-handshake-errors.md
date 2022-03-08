@@ -1,6 +1,8 @@
 ---
 title: 回顾 Nginx 配置问题导致 Websocket 握手错误
-tags: Nginx Websocket
+tags:
+    - Nginx
+    - Websocket
 date: 2020-08-29 12:42 +0800
 ---
 
