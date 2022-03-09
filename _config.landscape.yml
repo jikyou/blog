@@ -1,7 +1,7 @@
 # https://github.com/hexojs/hexo-theme-landscape
 # Header
 menu:
-  Slide: /slide
+  # Slide: /slide
   Wiki: https://wiki.ziqiang.blog
   Github: https://github.com/lanlyhs
   TGChannel: https://t.me/s/lanlyhs
