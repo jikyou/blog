@@ -6,9 +6,7 @@ tags:
 date: 2022-03-07 22:48 +0800
 ---
 
-代码首选是写给人看的（包括自己），其次才是给机器运行的，所以可读性很重要。
-
-（当然这里不包括写完就扔的代码）
+代码首选是写给人看的（包括自己），其次才是给机器运行的，所以可读性很重要。（当然这里不包括写完就扔的代码）
 
 <!--more-->
 
@@ -20,7 +18,7 @@ date: 2022-03-07 22:48 +0800
 
 ## 目标
 
-所以我们的目标就是要去掉多层的缩进，，减少阅读代码的负担。
+所以我们的目标就是要去掉多层的缩进，减少阅读代码的负担。
 
 ## 坏味道一 if/else 嵌套
 
@@ -103,7 +101,7 @@ function getPayAmount1() {
 
 ### 方法论
 
-1. 以卫语句取代嵌套的条件表达式 [Replace Nested Conditional with Guard Clauses](https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html)
+1. 以卫语句取代嵌套的条件表达式 [Replace Nested Conditional with Guard Clauses](https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html)。
 2. 这种快速返回的处理方法叫卫语句，一般把容易处理的情况快速返回达到减少分支的目的。
 3. 遇到需要处理的异常情况比较多，通过把异常流程快速返回，最后处理正常流程。
 
@@ -137,7 +135,7 @@ function toParameters(chapters) {
 
 ### 方法论
 
-1. 以管道取代循环 [Replace Loop with Pipeline](https://refactoring.com/catalog/replaceLoopWithPipeline.html)
+1. 以管道取代循环 [Replace Loop with Pipeline](https://refactoring.com/catalog/replaceLoopWithPipeline.html)。
 2. 通过一些基本的函数式函数 map filter reduce 来简化 for 循环，从而达到声明式写法的简洁。
 
 > 过程式是描述怎么做，声明式是描述做什么，抽象层级更高。
@@ -227,20 +225,20 @@ function getEpubPrice(user, epub) {
 
 ### 方法论
 
-1. 以多态取代条件表达式 [Replace Conditional with Polymorphism](https://refactoring.com/catalog/replaceConditionalWithPolymorphism.html)
+1. 以多态取代条件表达式 [Replace Conditional with Polymorphism](https://refactoring.com/catalog/replaceConditionalWithPolymorphism.html)。
 2. 面向对象比较常见的抽象方式，在使用的时候传入
 
 ## 检查工具
 
 1. 有一个方式可以计算一个函数的复杂度，叫做圈复杂度 [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)。
-2. 我们可以通过工具来检查代码是否有复杂度太高的函数。
+2. 我们可以通过一些工具来检查代码是否有复杂度太高的函数。
     1. [Javascript ESLint](https://eslint.org/docs/rules/complexity#complexity)
     1. [Java Checkstyle](https://checkstyle.sourceforge.io/config_metrics.html#CyclomaticComplexity)
 
 ## 总结
 
 1. 我们可以通过上述几种方式来减少 if/else 嵌套，旧风格的 for 循环，重复的 switch/case，从而降低代码的复杂度，提高的代码的可读性和可维护性。
-1. 更多例子可以参考 [Github 地址](https://github.com/lanlyhs/refactoring-abuse-control-and-loop-statements)
+1. 更多例子可以参考 [Github 地址](https://github.com/lanlyhs/refactoring-abuse-control-and-loop-statements)。
 
 ## References
 
