@@ -4,9 +4,7 @@ tags:
   - Code Quality
   - Refactoring
 date: 2022-03-15 22:12:49
-categories:
 ---
-
 
 谈谈关于代码中 if/else 和 for 语句的可读性问题。
 
