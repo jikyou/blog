@@ -22,7 +22,7 @@ date: 2022-03-16 23:40:56 +0800
 
 > The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
 
-`sort()` 函数的默认排序是正序，以及排序的的时候会把所有元素都转化成字符串，然后再排序。
+`sort()` 函数的默认排序是正序，以及排序的的时候会把所有元素都转化成字符串，然后再排序。字符串排序首先是按照第一个字符进行排序的，再者第一个字符相同的排第二个字符，所以最后的结果是 `[ 1, 10, 2 ]`。
 
 然而编译器为什么要这么做呢？
 
