@@ -1,6 +1,6 @@
 ---
 title: Hello World
-tags: Experience
+tags: Life
 date: 2020-03-18 01:29 +0800
 ---
 

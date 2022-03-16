@@ -1,6 +1,6 @@
 ---
 title: 使用 nrm 来切换 npm 源
-tags: npm
+tags: JavaScript
 date: 2021-07-03 12:06 +0800
 ---
 
