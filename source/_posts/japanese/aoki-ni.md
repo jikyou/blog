@@ -45,6 +45,10 @@ ITのエンジニアです
 趣味は音楽とアニメとITです
 どうぞよろしくお願いします
 
+### 宿題の練習
+
+![](assets/img/japanese_homework＿2022_05_10.jpeg)
+
 ## 音楽推奨日本のHip-Hop
 
 いち　[Kazefuku Doyou - OZROSAURUS](https://music.apple.com/us/album/kazefuku-doyou/279214923?i=279214993)
