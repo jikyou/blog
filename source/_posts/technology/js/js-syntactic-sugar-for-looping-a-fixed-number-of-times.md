@@ -18,13 +18,20 @@ for (let i = 1; i < 10; i++) {
 }
 ```
 
-在其他语言中，比如 Ruby 中可以这么实现。
+在其他语言中，比如 Ruby 中可以这么实现：
 
 ```ruby
 5.times { print "1" }
 ```
 
-漂亮的声明式写法。
+在 Python3 中可以这么实现：
+
+```py
+import itertools
+
+for _ in itertools.repeat(None, n):
+    foo()
+```
 
 最近在写 JS 中又遇到这个问题，搜索一番，综合各家方案，我选择一个具有声明式，同时可读性也不差的写法。
 
