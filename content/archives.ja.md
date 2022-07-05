@@ -1,5 +1,4 @@
 ---
-title: "Archive"
+title: "記録"
 layout: "archives"
-summary: archives
 ---
