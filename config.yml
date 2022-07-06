@@ -112,7 +112,7 @@ params:
   hidemeta: false
   hideSummary: true
   showtoc: true
-  tocopen: true
+  tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
