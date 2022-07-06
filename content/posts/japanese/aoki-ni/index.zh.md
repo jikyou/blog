@@ -47,7 +47,7 @@ ITのエンジニアです
 
 ### 宿題の練習
 
-![](images/japanese_homework＿2022_05_10.jpeg)
+![](images/japanese_homework.jpg)
 
 ## 音楽推奨日本のHip-Hop
 
