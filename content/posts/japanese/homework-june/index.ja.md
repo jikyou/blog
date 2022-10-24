@@ -1,5 +1,5 @@
 ---
-title: 六月、青木先生と日本語を学ぶための手書きの宿題
+title: 六月日本語の宿題の作文
 tags:
 - Japanese
 - AOKI

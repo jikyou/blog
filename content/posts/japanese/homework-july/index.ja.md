@@ -1,5 +1,5 @@
 ---
-title: 七月、青木先生と日本語を学ぶための手書きの宿題
+title: 七月日本語の宿題の作文
 tags:
 - Japanese
 - AOKI
