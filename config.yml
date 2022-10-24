@@ -1,6 +1,6 @@
 baseURL: "https://ziqiang.blog/"
 title: ZiQiang Chen's Blog
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
