@@ -151,8 +151,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/lanlyhs"
-    - name: telegram
-      url: https://t.me/s/lanlyhs
     - name: rss
       url: "index.xml"
     - name: other
@@ -188,19 +186,19 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
 menu:
-    main:
-        - name: Archive
-          url: archives/
-          weight: 10
-        - name: Search
-          url: search/
-          weight: 20
-        - name: Tags
-          url: tags/
-          weight: 10
-        - name: Categories
-          url: categories/
-          weight: 30
+  main:
+    - name: Archive
+      url: archives/
+      weight: 10
+    - name: Search
+      url: search/
+      weight: 20
+    - name: Tags
+      url: tags/
+      weight: 10
+    - name: Categories
+      url: categories/
+      weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
