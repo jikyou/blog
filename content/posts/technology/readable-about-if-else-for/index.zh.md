@@ -239,7 +239,7 @@ function getEpubPrice(user: IUser, epub: Epub) {
 }
 ```
 
-[完整代码参考](https://github.com/lanlyhs/readable-about-if-else-for/blob/main/if-else-polymorphism/refactoring/example1.ts) / [js 版本](https://github.com/lanlyhs/readable-about-if-else-for/blob/main/if-else-polymorphism/refactoring/example1.js)
+[完整代码参考](https://github.com/jikyou/readable-about-if-else-for/blob/main/if-else-polymorphism/refactoring/example1.ts) / [js 版本](https://github.com/jikyou/readable-about-if-else-for/blob/main/if-else-polymorphism/refactoring/example1.js)
 
 ### 小结
 
@@ -340,7 +340,7 @@ averageAge = averageAge / people.length;
 1. 有一个方式可以计算一个函数的复杂度，叫做圈复杂度 [Cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)。我们可以通过一些工具来检查代码是否有复杂度太高的函数。
     1. [Javascript ESLint](https://eslint.org/docs/rules/complexity#complexity)
     1. [Java Checkstyle](https://checkstyle.sourceforge.io/config_metrics.html#CyclomaticComplexity)
-1. 更多例子可以参考 [Github 地址](https://github.com/lanlyhs/readable-about-if-else-for)。
+1. 更多例子可以参考 [Github 地址](https://github.com/jikyou/readable-about-if-else-for)。
 
 ## References
 

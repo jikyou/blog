@@ -84,8 +84,3 @@ tags:
 [**网络安全事件SecEvents**](https://t.me/SecEvents)
 
 + 安全相关
-
-## 利益相关
-
-+ 我的 Channel: [Lanlyhs](https://t.me/lanlyhss)
-

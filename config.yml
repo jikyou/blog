@@ -150,7 +150,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/lanlyhs"
+      url: "https://github.com/jikyou"
     - name: other
       url: "https://wiki.ziqiang.blog"
     - name: rss
@@ -170,7 +170,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/lanlyhs/blog/blob/main/content/"
+    URL: "https://github.com/jikyou/blog/blob/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
