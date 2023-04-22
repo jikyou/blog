@@ -24,7 +24,7 @@ Websocket 协议是通过需要 http Upgrade 头切换过来的。
 
 现在我想对这个问题重新梳理一下，在本地模拟当时线上的情况，最终会有 `HTTPS + Nginx + Node Websocket Server`。
 
-**[参考例子仓库](https://github.com/jikyou/retrospect-nginx-cause-websocket-handshake-errors)**
+**[参考例子仓库](https://github.com/jkyochen/retrospect-nginx-cause-websocket-handshake-errors)**
 
 ### 准备一个带有 HTTPS 域名
 

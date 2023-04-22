@@ -1,5 +1,5 @@
-baseURL: "https://ziqiang.blog/"
-title: ZiQiang Chen's Blog
+baseURL: "https://jkyo.org/"
+title: Jkyo's Blog
 paginate: 10
 theme: PaperMod
 
@@ -87,10 +87,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ZiQiang Chen's Blog
+  title: Jkyo 自強
   description: ""
-  keywords: [Blog, ZiQiang Chen]
-  author: ZiQiang Chen
+  keywords: [Blog, jkyo]
+  author: Jkyo
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -131,7 +131,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ZiQiang Chen's Blog
+    title: Jkyo 自強
     subtitle: "Hello World!"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -150,7 +150,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/jikyou"
+      url: "https://github.com/jkyochen"
     - name: twitter
       url: "https://twitter.com/chinjikyou"
     - name: other
@@ -172,7 +172,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/jikyou/blog/blob/main/content/"
+    URL: "https://github.com/jkyochen/blog/blob/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
