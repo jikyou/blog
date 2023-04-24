@@ -152,9 +152,9 @@ params:
     - name: github
       url: "https://github.com/jkyochen"
     - name: twitter
-      url: "https://twitter.com/chinjikyou"
+      url: "https://twitter.com/jkyochen"
     - name: other
-      url: "https://wiki.ziqiang.blog"
+      url: "https://wiki.jkyo.org"
     - name: rss
       url: "index.xml"
 
