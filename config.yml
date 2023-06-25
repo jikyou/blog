@@ -87,7 +87,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Jkyo 自強
+  title: Jkyo 陳自強
   description: ""
   keywords: [Blog, jkyo]
   author: Jkyo
@@ -131,7 +131,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: Jkyo 自強
+    title: Jkyo 陳自強
     subtitle: "Hello World!"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -153,8 +153,16 @@ params:
       url: "https://github.com/jkyochen"
     - name: twitter
       url: "https://twitter.com/jkyochen"
+    - name: instagram
+      url: "https://www.instagram.com/jkyochen"
+    - name: youtube
+      url: "https://www.youtube.com/@jkyochen"
     - name: other
+      title: "Wiki"
       url: "https://wiki.jkyo.org"
+    - name: other
+      title: "Study Japanese"
+      url: "https://ja.jkyo.org"
     - name: rss
       url: "index.xml"
 
