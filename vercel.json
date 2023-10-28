@@ -2,15 +2,9 @@
 	"github": {
 		"silent": true
 	},
-	"builds": [
-		{
-			"src": "package.json",
-			"use": "@vercel/static-build",
-			"config": {
-				"distDir": "_site"
-			}
-		}
-	],
+	"framework": "eleventy",
+	"buildCommand": "npm run build",
+	"outputDirectory": "_site",
 	"routes": [
 		{
 			"src": "^/$",
@@ -25,8 +19,5 @@
 			"status": 302,
 			"dest": "/zh"
 		}
-	],
-	"scripts": {
-		"build": "npm run build"
-	}
+	]
 }
