@@ -1,0 +1,6 @@
+<h1>Tagged “{{ tag }}”</h1>
+
+{% set postslist = collections[ tag ] %}
+{% include "blog/postslist.njk" %}
+
+<p>See <a href="{{ "/tags/" | locale_url }}">all tags</a>.</p>

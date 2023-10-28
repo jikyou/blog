@@ -1,10 +1,32 @@
 {
-    "github": {
-        "silent": true
-    },
-    "build": {
-        "env": {
-            "HUGO_VERSION": "0.101.0"
-        }
-    }
+	"github": {
+		"silent": true
+	},
+	"builds": [
+		{
+			"src": "package.json",
+			"use": "@vercel/static-build",
+			"config": {
+				"distDir": "_site"
+			}
+		}
+	],
+	"routes": [
+		{
+			"src": "^/$",
+			"headers": {
+				"accept-language": "ja"
+			},
+			"status": 302,
+			"dest": "/ja"
+		},
+		{
+			"src": "^/$",
+			"status": 302,
+			"dest": "/zh"
+		}
+	],
+	"scripts": {
+		"build": "npm run build"
+	}
 }
