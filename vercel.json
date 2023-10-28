@@ -5,19 +5,23 @@
 	"framework": "eleventy",
 	"buildCommand": "npm run build",
 	"outputDirectory": "_site",
-	"routes": [
+	"redirects": [
 		{
-			"src": "^/$",
-			"headers": {
-				"accept-language": "ja"
-			},
-			"status": 302,
-			"dest": "/ja"
+			"source": "^/$",
+			"has": [
+				{
+          "type": "header",
+          "key": "accept-language",
+          "value": "ja"
+				}
+			],
+			"statusCode": 302,
+			"destination": "/ja"
 		},
 		{
-			"src": "^/$",
-			"status": 302,
-			"dest": "/zh"
+			"source": "^/$",
+			"statusCode": 302,
+			"destination": "/zh"
 		}
 	]
 }
