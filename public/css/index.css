@@ -277,6 +277,7 @@ h2 + .header-anchor {
 
 .site-foot__inner {
   display: flex;
+  flex-wrap: wrap;
   gap: 1.5rem;
   justify-content: center;
 }
