@@ -20,6 +20,11 @@
     "icon": "twitter.svg"
   },
 	{
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/jkyochen",
+    "icon": "instagram.svg"
+  },
+	{
     "platform": "Wiki",
     "url": "https://wiki.jkyo.org",
     "icon": "wiki.svg"
