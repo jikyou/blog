@@ -1,4 +1,26 @@
+<footer class="site-foot h-card" role="contentinfo">
+  <div class="wrapper prose">
+    <div class="site-foot__inner">
+      <nav id="social" class="site-foot__inner">
+        {% for item in social %}
 
-<footer></footer>
+        {% if item.platform == "rss" %}
+					<a href="{{ item.url | locale_url }}" rel="alternate" type="application/rss+xml">
+				{% else %}
+					<a href="{{ item.url }}" rel="me">
+				{% endif %}
 
-<!-- Current page: {{ page.url | htmlBaseUrl }} -->
+				<div class="icon-container">
+					<div aria-hidden="true">{% include 'icons/social-' + item.icon %}</div>
+					<span class="title">{{ item.platform }}</span>
+				</div>
+
+				</a>
+
+        {% endfor %}
+        </nav>
+    </div>
+  </div>
+
+  <!-- lang menu -->
+</footer>

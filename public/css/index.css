@@ -269,3 +269,34 @@ a[href].header-anchor:focus,
 h2 + .header-anchor {
 	font-size: 1.5em;
 }
+
+/* footer */
+.site-foot {
+  padding: 2rem;
+}
+
+.site-foot__inner {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+:not(nav).site-foot__inner {
+  flex-wrap: wrap;
+}
+
+.site-foot .icon-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.site-foot svg {
+  width: 2rem;
+  height: 2rem;
+}
+
+.site-foot .title {
+	font-size: 0.5rem;
+}
