@@ -2406,7 +2406,7 @@ CHECK TABLE orders, orderitems;
     + --help // 显示帮助
     + --safe-mode // 装载减去某些最佳配置的服务器
     + --verbose // 显示全文本信息
-    + --version // 显示版本信息然后推出
+    + --version // 显示版本信息然后推出
 
 ## 查看日志文件
 

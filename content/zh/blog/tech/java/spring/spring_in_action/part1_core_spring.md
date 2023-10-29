@@ -45,7 +45,7 @@ public interface AnnotatedTypeMetadata {
     Map<String, Object> getAnnotationAttributes(String annotationType);
     Map<String, Object> getAnnotationAttributes(String annotationType, boolean classValuesAsString);
     MultiValueMap<String, Object> getAllAnnotationAttributes(String annotationTyper);
-    MultiValueMap<String, Object> getAllAnnotationAttributes(String annotationTyper, boolean classValuesAsString);
+    MultiValueMap<String, Object> getAllAnnotationAttributes(String annotationTyper, boolean classValuesAsString);
 }
 ```
 

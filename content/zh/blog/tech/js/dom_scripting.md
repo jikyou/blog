@@ -1772,7 +1772,7 @@ if (!elem.style.top) elem.style.top = "0px";
 
 ```HTML
 <video src="movie.mp4">
-    // 不支持原声视频的替代内容
+    // 不支持原声视频的替代内容
     <a href="movie.mp4">Download movie.mp4</a>
 </video>
 
