@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
+const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -40,6 +41,7 @@ module.exports = function(eleventyConfig) {
     defaultLanguage: "zh", // Required, this site uses "en"
   });
 	eleventyConfig.addPlugin(pluginBundle);
+  eleventyConfig.addPlugin(faviconsPlugin, {});
 
 	// Filters
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
