@@ -1,4 +1,14 @@
 [
+	{
+    "platform": "Wiki-Knowledge link",
+    "url": "https://wiki.jkyo.org",
+    "icon": "wiki.svg"
+  },
+	{
+    "platform": "Wiki-Japanese",
+    "url": "https://ja.jkyo.org",
+    "icon": "wiki.svg"
+  },
   {
     "platform": "Github",
     "url": "https://github.com/jkyochen",
@@ -10,29 +20,14 @@
     "icon": "youtube.svg"
   },
 	{
-    "platform": "Twitter-Jkyo Chen",
+    "platform": "Twitter",
     "url": "https://twitter.com/jkyochen",
-    "icon": "twitter.svg"
-  },
-	{
-    "platform": "Twitter-Japanese",
-    "url": "https://twitter.com/jkyo_ja",
     "icon": "twitter.svg"
   },
 	{
     "platform": "Instagram",
     "url": "https://www.instagram.com/jkyochen",
     "icon": "instagram.svg"
-  },
-	{
-    "platform": "Wiki",
-    "url": "https://wiki.jkyo.org",
-    "icon": "wiki.svg"
-  },
-	{
-    "platform": "Wiki-Japanese",
-    "url": "https://ja.jkyo.org",
-    "icon": "wiki.svg"
   },
   {
     "platform": "RSS",
