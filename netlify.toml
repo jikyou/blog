@@ -6,14 +6,14 @@
 
 [[redirects]]
   from = "/"
-  to = "/ja"
+  to = "/ja/"
   status = 302
   force = true
   conditions = {Language = ["ja"]}
 
 [[redirects]]
   from = "/"
-  to = "/zh"
+  to = "/zh/"
   status = 302
   force = true
 

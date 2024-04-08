@@ -16,12 +16,12 @@
 				}
 			],
 			"statusCode": 302,
-			"destination": "/ja"
+			"destination": "/ja/"
 		},
 		{
 			"source": "/",
 			"statusCode": 302,
-			"destination": "/zh"
+			"destination": "/zh/"
 		}
 	]
 }
