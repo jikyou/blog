@@ -1,6 +1,6 @@
 [
 	{
-    "platform": "Wiki-Knowledge link",
+    "platform": "Wiki-Knowledge",
     "url": "https://wiki.jkyo.org",
     "icon": "wiki.svg"
   },
@@ -18,11 +18,6 @@
     "platform": "Youtube",
     "url": "https://www.youtube.com/channel/UCXwzixVannFaCkCu7KFV_SA",
     "icon": "youtube.svg"
-  },
-	{
-    "platform": "Twitter",
-    "url": "https://twitter.com/jkyochen",
-    "icon": "twitter.svg"
   },
 	{
     "platform": "Instagram",
