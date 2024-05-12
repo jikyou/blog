@@ -1,5 +1,5 @@
 ---
-title: "Brew, Error: Unexpected method 'appcast' called on Cask"
+title: "Brewから出たエラー「Error: Unexpected method 'appcast' called on Cask」"
 tags:
 - Brew
 date: 2024-05-12T21:24:38+09:00
