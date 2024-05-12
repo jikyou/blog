@@ -20,8 +20,21 @@
 		},
 		{
 			"source": "/",
+			"has": [
+				{
+          "type": "header",
+          "key": "accept-language",
+          "value": "zh"
+				}
+			],
+			"source": "/",
 			"statusCode": 302,
 			"destination": "/zh/"
+		},
+		{
+			"source": "/",
+			"statusCode": 302,
+			"destination": "/ja/"
 		}
 	]
 }

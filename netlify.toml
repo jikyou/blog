@@ -16,6 +16,13 @@
   to = "/zh/"
   status = 302
   force = true
+  conditions = {Language = ["zh"]}
+
+[[redirects]]
+  from = "/"
+  to = "/ja/"
+  status = 302
+  force = true
 
 [[plugins]]
 
