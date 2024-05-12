@@ -19,11 +19,6 @@
     "url": "https://www.youtube.com/channel/UCXwzixVannFaCkCu7KFV_SA",
     "icon": "youtube.svg"
   },
-	{
-    "platform": "Instagram",
-    "url": "https://www.instagram.com/jkyochen",
-    "icon": "instagram.svg"
-  },
   {
     "platform": "RSS",
     "url": "feed/feed.xml",
