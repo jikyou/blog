@@ -11,7 +11,7 @@
 		"benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
 	},
 	"engines": {
-		"node": ">=18"
+		"node": ">=20"
 	},
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.1",
