@@ -7,13 +7,13 @@ date: 2024-07-01T23:04:12+09:00
 
 各プログラミング言語はバージョン管理のツールがあります。例えば、Node.jsの場合は[nvm](https://github.com/nvm-sh/nvm)です、Rubyは[rvm](https://github.com/rvm/rvm)とか、[rbenv](https://github.com/rbenv/rbenv)とか、Pythonは[pyenv](https://github.com/pyenv/pyenv)とか、Javaは[jenv](https://github.com/jenv/jenv)とかです。
 
-違い言語のバージョン管理で違いツールを使います、それで、ツールの使い方はそれぞれです、覚えることは面倒臭いです、もし一つツールを使って、複数言語のバージョンを管理できる、それで良いな。
+違い言語のバージョン管理で違いツールを使います、それで、ツールの使い方はそれぞれ違います、覚えることも面倒臭いです、もし一つツールで、複数言語のバージョンを管理できる、それで良いな。
 
-色々探して、ある日ようやくこんなツール見つけました。
+色々探して、ある日ようやくこのようなツール見つけました、これはasdfです。
 
 ## [asdf](https://asdf-vm.com/)
 
-このasdfって、複数言語のバージョンを管理できる。使い方紹介します。
+このasdf使って、複数言語のバージョンを管理できる。使い方紹介します。
 
 ### １、まずはasdf[インストールして](https://asdf-vm.com/guide/getting-started.html)。
 
