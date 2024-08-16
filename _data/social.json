@@ -1,5 +1,10 @@
 [
 	{
+	  "platform": "Memo",
+	  "url": "https://memo.jkyo.org",
+	  "icon": "memo.svg"
+	},
+	{
     "platform": "Wiki-Knowledge",
     "url": "https://wiki.jkyo.org",
     "icon": "wiki.svg"
